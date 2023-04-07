@@ -1,2 +1,2 @@
 # ShooterProject
-This is a C language shooting game project
+This is a C language shooting game project.
